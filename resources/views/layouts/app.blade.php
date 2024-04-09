@@ -11,6 +11,10 @@
     
     @include('partials/nav')
 
+    @include('partials/jumbotron')
+
+    @include('partials/main')
+
     @yield('content')
 
 </body>
