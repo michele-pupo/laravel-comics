@@ -1,0 +1,18 @@
+#blue-bundles{
+    height: 150px;
+    width: 100%;
+    background-color: $primary-color;
+    padding: 0px 10px;
+
+    img{
+        width: 50px;
+        height: 60px;
+    }
+
+    h4{
+        color: white;
+        font-size: 15px;
+        padding-left: 15px;
+        text-transform: uppercase;
+    }
+}
