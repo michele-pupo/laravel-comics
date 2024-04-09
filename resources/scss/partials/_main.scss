@@ -2,12 +2,22 @@
     height: 600px;
     width: 100%;
     background-color: #1c1c1c;
+    padding: 36px 0px;
 }
 
 #movie-list{
+    width: 1400px;
+    margin: 0 auto;
+
     .movie{
         .movie-img{
             width: 100%;
+        }
+
+        .movie-title{
+            font-size: 13px;
+            color: white;
+            text-transform: uppercase;
         }
     }
 }
