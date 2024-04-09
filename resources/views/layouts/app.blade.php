@@ -17,6 +17,8 @@
 
     @include('partials/blueBundles')
 
+    @include('partials/footerLinks')
+
     @yield('content')
 
 </body>
